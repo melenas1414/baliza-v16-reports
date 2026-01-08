@@ -1,0 +1,1330 @@
+{
+  "generatedAt": "2026-01-08T17:56:46.217Z",
+  "summary": {
+    "totalDataPoints": 199,
+    "monitoringDays": 3,
+    "dateFrom": "2026-01-06T16:11:56.317Z",
+    "dateTo": "2026-01-08T17:41:58.585Z",
+    "dateFromFormatted": "6/1/2026, 17:11:56",
+    "dateToFormatted": "8/1/2026, 18:41:58",
+    "uniqueBeaconsTracked": 23895,
+    "currentlyActive": 282,
+    "currentlyLost": 334,
+    "totalActivationRecords": 23895
+  },
+  "generalStats": {
+    "totalSnapshots": 199,
+    "totalHistoryRecords": 23895,
+    "totalUniqueBeacons": 23895,
+    "currentActive": 282,
+    "currentLost": 334,
+    "dateRange": {
+      "oldest": "2026-01-06T16:11:56.317Z",
+      "newest": "2026-01-08T17:41:58.585Z",
+      "daysOfData": 3
+    }
+  },
+  "currentAnalysis": {
+    "total": 616,
+    "byStatus": {
+      "active": 282,
+      "lost": 334
+    },
+    "topComunidades": [
+      {
+        "name": "Andalucía",
+        "count": 149
+      },
+      {
+        "name": "Galicia",
+        "count": 75
+      },
+      {
+        "name": "Comunidad de Madrid",
+        "count": 73
+      },
+      {
+        "name": "Comunitat Valenciana",
+        "count": 56
+      },
+      {
+        "name": "Castilla y León",
+        "count": 40
+      },
+      {
+        "name": "Canarias",
+        "count": 34
+      },
+      {
+        "name": "Castilla-La Mancha",
+        "count": 33
+      },
+      {
+        "name": "Región de Murcia",
+        "count": 28
+      },
+      {
+        "name": "Cataluña",
+        "count": 26
+      },
+      {
+        "name": "Aragón",
+        "count": 23
+      }
+    ],
+    "topProvincias": [
+      {
+        "name": "Madrid",
+        "count": 73
+      },
+      {
+        "name": "A Coruña",
+        "count": 36
+      },
+      {
+        "name": "Málaga",
+        "count": 36
+      },
+      {
+        "name": "Murcia",
+        "count": 28
+      },
+      {
+        "name": "Cádiz",
+        "count": 28
+      },
+      {
+        "name": "Alacant/Alicante",
+        "count": 28
+      },
+      {
+        "name": "Pontevedra",
+        "count": 22
+      },
+      {
+        "name": "Sevilla",
+        "count": 22
+      },
+      {
+        "name": "Córdoba",
+        "count": 21
+      },
+      {
+        "name": "València/Valencia",
+        "count": 20
+      }
+    ],
+    "distributionByComunidad": {
+      "País Vasco": 1,
+      "Cataluña": 26,
+      "Comunitat Valenciana": 56,
+      "Galicia": 75,
+      "Castilla y León": 40,
+      "Andalucía": 149,
+      "Comunidad de Madrid": 73,
+      "Región de Murcia": 28,
+      "Canarias": 34,
+      "Extremadura": 21,
+      "Castilla-La Mancha": 33,
+      "Illes Balears": 14,
+      "Cantabria": 8,
+      "Aragón": 23,
+      "Rioja, La": 7,
+      "Principado de Asturias": 19,
+      "Comunidad Foral de Navarra": 9
+    },
+    "distributionByProvincia": {
+      "Gipuzkoa": 1,
+      "Barcelona": 13,
+      "València/Valencia": 20,
+      "A Coruña": 36,
+      "Palencia": 2,
+      "Málaga": 36,
+      "Pontevedra": 22,
+      "Madrid": 73,
+      "Murcia": 28,
+      "Santa Cruz de Tenerife": 19,
+      "Almería": 17,
+      "Sevilla": 22,
+      "Granada": 14,
+      "Córdoba": 21,
+      "Cáceres": 9,
+      "León": 5,
+      "Toledo": 13,
+      "Las Palmas": 15,
+      "Salamanca": 4,
+      "Badajoz": 12,
+      "Illes Balears": 14,
+      "Ciudad Real": 4,
+      "Castelló/Castellón": 8,
+      "Burgos": 4,
+      "Cádiz": 28,
+      "Cantabria": 8,
+      "Huesca": 2,
+      "Alacant/Alicante": 28,
+      "Jaén": 9,
+      "Zaragoza": 16,
+      "Tarragona": 5,
+      "La Rioja": 7,
+      "Soria": 2,
+      "Asturias": 19,
+      "Teruel": 5,
+      "Valladolid": 14,
+      "Navarra": 9,
+      "Lleida": 4,
+      "Ourense": 11,
+      "Lugo": 6,
+      "Ávila": 5,
+      "Girona": 4,
+      "Guadalajara": 4,
+      "Zamora": 4,
+      "Albacete": 7,
+      "Huelva": 2,
+      "Cuenca": 5
+    }
+  },
+  "historicalAnalysis": {
+    "totalRecords": 23895,
+    "recordsWithActiveTime": 23279,
+    "avgActiveTimeMinutes": 46,
+    "avgActiveTimeFormatted": "46m",
+    "activeTimeDistribution": {
+      "lessThan15Min": 0,
+      "from15to60Min": 16739,
+      "from1to6Hours": 6540,
+      "from6to24Hours": 0,
+      "moreThan24Hours": 0
+    },
+    "totalUniqueBeacons": 23895,
+    "avgCyclesPerBeacon": 1
+  },
+  "locationAnalysis": {
+    "byComunidad": [
+      {
+        "_id": "Andalucía",
+        "totalActivations": 5588,
+        "comunidad": "Andalucía",
+        "uniqueBeacons": 5588,
+        "avgActiveTime": 44.66,
+        "totalActiveTime": 242925
+      },
+      {
+        "_id": "Comunidad de Madrid",
+        "totalActivations": 2437,
+        "comunidad": "Comunidad de Madrid",
+        "uniqueBeacons": 2437,
+        "avgActiveTime": 48.08,
+        "totalActiveTime": 113655
+      },
+      {
+        "_id": "Comunitat Valenciana",
+        "totalActivations": 2365,
+        "comunidad": "Comunitat Valenciana",
+        "uniqueBeacons": 2365,
+        "avgActiveTime": 46.98,
+        "totalActiveTime": 108480
+      },
+      {
+        "_id": "Galicia",
+        "totalActivations": 2364,
+        "comunidad": "Galicia",
+        "uniqueBeacons": 2364,
+        "avgActiveTime": 44.5,
+        "totalActiveTime": 101865
+      },
+      {
+        "_id": "Castilla y León",
+        "totalActivations": 2219,
+        "comunidad": "Castilla y León",
+        "uniqueBeacons": 2219,
+        "avgActiveTime": 44.5,
+        "totalActiveTime": 96960
+      },
+      {
+        "_id": "Castilla-La Mancha",
+        "totalActivations": 1717,
+        "comunidad": "Castilla-La Mancha",
+        "uniqueBeacons": 1717,
+        "avgActiveTime": 45.11,
+        "totalActiveTime": 75960
+      },
+      {
+        "_id": "Canarias",
+        "totalActivations": 1382,
+        "comunidad": "Canarias",
+        "uniqueBeacons": 1382,
+        "avgActiveTime": 44.78,
+        "totalActiveTime": 60360
+      },
+      {
+        "_id": "Región de Murcia",
+        "totalActivations": 963,
+        "comunidad": "Región de Murcia",
+        "uniqueBeacons": 963,
+        "avgActiveTime": 44.29,
+        "totalActiveTime": 41415
+      },
+      {
+        "_id": "Aragón",
+        "totalActivations": 884,
+        "comunidad": "Aragón",
+        "uniqueBeacons": 884,
+        "avgActiveTime": 48.14,
+        "totalActiveTime": 41445
+      },
+      {
+        "_id": "Extremadura",
+        "totalActivations": 772,
+        "comunidad": "Extremadura",
+        "uniqueBeacons": 772,
+        "avgActiveTime": 44.12,
+        "totalActiveTime": 33135
+      },
+      {
+        "_id": "Illes Balears",
+        "totalActivations": 673,
+        "comunidad": "Illes Balears",
+        "uniqueBeacons": 673,
+        "avgActiveTime": 49.32,
+        "totalActiveTime": 32505
+      },
+      {
+        "_id": "Principado de Asturias",
+        "totalActivations": 657,
+        "comunidad": "Principado de Asturias",
+        "uniqueBeacons": 657,
+        "avgActiveTime": 44.72,
+        "totalActiveTime": 28530
+      },
+      {
+        "_id": "Cataluña",
+        "totalActivations": 600,
+        "comunidad": "Cataluña",
+        "uniqueBeacons": 600,
+        "avgActiveTime": 67.13,
+        "totalActiveTime": 38535
+      },
+      {
+        "_id": "Comunidad Foral de Navarra",
+        "totalActivations": 563,
+        "comunidad": "Comunidad Foral de Navarra",
+        "uniqueBeacons": 563,
+        "avgActiveTime": 44.3,
+        "totalActiveTime": 24540
+      },
+      {
+        "_id": "Cantabria",
+        "totalActivations": 502,
+        "comunidad": "Cantabria",
+        "uniqueBeacons": 502,
+        "avgActiveTime": 44.79,
+        "totalActiveTime": 22125
+      },
+      {
+        "_id": "Rioja, La",
+        "totalActivations": 208,
+        "comunidad": "Rioja, La",
+        "uniqueBeacons": 208,
+        "avgActiveTime": 45.07,
+        "totalActiveTime": 9060
+      },
+      {
+        "_id": "País Vasco",
+        "totalActivations": 1,
+        "comunidad": "País Vasco",
+        "uniqueBeacons": 1,
+        "avgActiveTime": null,
+        "totalActiveTime": 0
+      }
+    ],
+    "topCarreteras": [
+      {
+        "_id": "A-7",
+        "totalActivations": 873,
+        "carretera": "A-7",
+        "uniqueBeacons": 873,
+        "avgActiveTime": 46.29
+      },
+      {
+        "_id": "A-4",
+        "totalActivations": 497,
+        "carretera": "A-4",
+        "uniqueBeacons": 497,
+        "avgActiveTime": 43.43
+      },
+      {
+        "_id": "AP-7",
+        "totalActivations": 437,
+        "carretera": "AP-7",
+        "uniqueBeacons": 437,
+        "avgActiveTime": 51.16
+      },
+      {
+        "_id": "A-2",
+        "totalActivations": 294,
+        "carretera": "A-2",
+        "uniqueBeacons": 294,
+        "avgActiveTime": 50.27
+      },
+      {
+        "_id": "M-40",
+        "totalActivations": 279,
+        "carretera": "M-40",
+        "uniqueBeacons": 279,
+        "avgActiveTime": 48.41
+      },
+      {
+        "_id": "A-92",
+        "totalActivations": 273,
+        "carretera": "A-92",
+        "uniqueBeacons": 273,
+        "avgActiveTime": 41.61
+      },
+      {
+        "_id": "A-6",
+        "totalActivations": 263,
+        "carretera": "A-6",
+        "uniqueBeacons": 263,
+        "avgActiveTime": 43.02
+      },
+      {
+        "_id": "N-332",
+        "totalActivations": 257,
+        "carretera": "N-332",
+        "uniqueBeacons": 257,
+        "avgActiveTime": 45.48
+      },
+      {
+        "_id": "A-3",
+        "totalActivations": 241,
+        "carretera": "A-3",
+        "uniqueBeacons": 241,
+        "avgActiveTime": 45.06
+      },
+      {
+        "_id": "N-340",
+        "totalActivations": 225,
+        "carretera": "N-340",
+        "uniqueBeacons": 225,
+        "avgActiveTime": 45
+      },
+      {
+        "_id": "A-8",
+        "totalActivations": 224,
+        "carretera": "A-8",
+        "uniqueBeacons": 224,
+        "avgActiveTime": 38.74
+      },
+      {
+        "_id": "A-66",
+        "totalActivations": 202,
+        "carretera": "A-66",
+        "uniqueBeacons": 202,
+        "avgActiveTime": 49.34
+      },
+      {
+        "_id": "A-5",
+        "totalActivations": 201,
+        "carretera": "A-5",
+        "uniqueBeacons": 201,
+        "avgActiveTime": 44.02
+      },
+      {
+        "_id": "TF-1",
+        "totalActivations": 186,
+        "carretera": "TF-1",
+        "uniqueBeacons": 186,
+        "avgActiveTime": 45.66
+      },
+      {
+        "_id": "N-634",
+        "totalActivations": 182,
+        "carretera": "N-634",
+        "uniqueBeacons": 182,
+        "avgActiveTime": 43.48
+      },
+      {
+        "_id": "A-42",
+        "totalActivations": 179,
+        "carretera": "A-42",
+        "uniqueBeacons": 179,
+        "avgActiveTime": 47.18
+      },
+      {
+        "_id": "TF-5",
+        "totalActivations": 161,
+        "carretera": "TF-5",
+        "uniqueBeacons": 161,
+        "avgActiveTime": 45.38
+      },
+      {
+        "_id": "N-340a",
+        "totalActivations": 156,
+        "carretera": "N-340a",
+        "uniqueBeacons": 156,
+        "avgActiveTime": 47.7
+      },
+      {
+        "_id": "N-232",
+        "totalActivations": 154,
+        "carretera": "N-232",
+        "uniqueBeacons": 154,
+        "avgActiveTime": 48.36
+      },
+      {
+        "_id": "A-1",
+        "totalActivations": 152,
+        "carretera": "A-1",
+        "uniqueBeacons": 152,
+        "avgActiveTime": 47.96
+      }
+    ]
+  },
+  "temporalAnalysis": {
+    "byHourOfDay": [
+      {
+        "hour": 0,
+        "avg": 134,
+        "total": 402,
+        "days": 3
+      },
+      {
+        "hour": 1,
+        "avg": 92.3,
+        "total": 277,
+        "days": 3
+      },
+      {
+        "hour": 2,
+        "avg": 57.7,
+        "total": 173,
+        "days": 3
+      },
+      {
+        "hour": 3,
+        "avg": 35,
+        "total": 105,
+        "days": 3
+      },
+      {
+        "hour": 4,
+        "avg": 30.7,
+        "total": 92,
+        "days": 3
+      },
+      {
+        "hour": 5,
+        "avg": 57.7,
+        "total": 173,
+        "days": 3
+      },
+      {
+        "hour": 6,
+        "avg": 115.7,
+        "total": 347,
+        "days": 3
+      },
+      {
+        "hour": 7,
+        "avg": 277,
+        "total": 831,
+        "days": 3
+      },
+      {
+        "hour": 8,
+        "avg": 529,
+        "total": 1587,
+        "days": 3
+      },
+      {
+        "hour": 9,
+        "avg": 544.3,
+        "total": 1633,
+        "days": 3
+      },
+      {
+        "hour": 10,
+        "avg": 450,
+        "total": 1350,
+        "days": 3
+      },
+      {
+        "hour": 11,
+        "avg": 457.7,
+        "total": 1373,
+        "days": 3
+      },
+      {
+        "hour": 12,
+        "avg": 408.7,
+        "total": 1226,
+        "days": 3
+      },
+      {
+        "hour": 13,
+        "avg": 463.3,
+        "total": 1390,
+        "days": 3
+      },
+      {
+        "hour": 14,
+        "avg": 446,
+        "total": 1338,
+        "days": 3
+      },
+      {
+        "hour": 15,
+        "avg": 459,
+        "total": 1377,
+        "days": 3
+      },
+      {
+        "hour": 16,
+        "avg": 481.3,
+        "total": 1444,
+        "days": 3
+      },
+      {
+        "hour": 17,
+        "avg": 671,
+        "total": 2013,
+        "days": 3
+      },
+      {
+        "hour": 18,
+        "avg": 599.3,
+        "total": 1798,
+        "days": 3
+      },
+      {
+        "hour": 19,
+        "avg": 456.3,
+        "total": 1369,
+        "days": 3
+      },
+      {
+        "hour": 20,
+        "avg": 438.7,
+        "total": 1316,
+        "days": 3
+      },
+      {
+        "hour": 21,
+        "avg": 321,
+        "total": 963,
+        "days": 3
+      },
+      {
+        "hour": 22,
+        "avg": 247,
+        "total": 741,
+        "days": 3
+      },
+      {
+        "hour": 23,
+        "avg": 192.3,
+        "total": 577,
+        "days": 3
+      }
+    ],
+    "byDayOfWeek": [
+      {
+        "day": "Domingo",
+        "dayNum": 0,
+        "count": 0
+      },
+      {
+        "day": "Lunes",
+        "dayNum": 1,
+        "count": 0
+      },
+      {
+        "day": "Martes",
+        "dayNum": 2,
+        "count": 3661
+      },
+      {
+        "day": "Miércoles",
+        "dayNum": 3,
+        "count": 11746
+      },
+      {
+        "day": "Jueves",
+        "dayNum": 4,
+        "count": 8488
+      },
+      {
+        "day": "Viernes",
+        "dayNum": 5,
+        "count": 0
+      },
+      {
+        "day": "Sábado",
+        "dayNum": 6,
+        "count": 0
+      }
+    ],
+    "last30Days": [
+      {
+        "date": "2026-01-06",
+        "count": 3889
+      },
+      {
+        "date": "2026-01-07",
+        "count": 11692
+      },
+      {
+        "date": "2026-01-08",
+        "count": 8314
+      }
+    ]
+  },
+  "rankings": {
+    "mostActiveBeacons": [
+      {
+        "id": "19480324",
+        "totalCycles": 1,
+        "totalActiveTime": 75,
+        "totalActiveTimeFormatted": "1h 15m",
+        "carretera": "BA-012",
+        "municipio": "Almendralejo",
+        "provincia": "Badajoz",
+        "lastSeen": "2026-01-07T18:56:58.069Z"
+      },
+      {
+        "id": "19505259",
+        "totalCycles": 1,
+        "totalActiveTime": 45,
+        "totalActiveTimeFormatted": "45m",
+        "carretera": "N-332",
+        "municipio": "Pedreguer",
+        "provincia": "Alacant/Alicante",
+        "lastSeen": "2026-01-08T16:11:58.524Z"
+      },
+      {
+        "id": "19457018",
+        "totalCycles": 1,
+        "totalActiveTime": 60,
+        "totalActiveTimeFormatted": "1h 0m",
+        "carretera": "V-21",
+        "municipio": "València",
+        "provincia": "València/Valencia",
+        "lastSeen": "2026-01-06T19:56:57.566Z"
+      },
+      {
+        "id": "19498812",
+        "totalCycles": 1,
+        "totalActiveTime": 30,
+        "totalActiveTimeFormatted": "30m",
+        "carretera": "N-344",
+        "municipio": "Las Torres de Cotillas",
+        "provincia": "Murcia",
+        "lastSeen": "2026-01-08T12:11:58.411Z"
+      },
+      {
+        "id": "19474022",
+        "totalCycles": 1,
+        "totalActiveTime": 30,
+        "totalActiveTimeFormatted": "30m",
+        "carretera": "AS-378",
+        "municipio": "Langreo",
+        "provincia": "Asturias",
+        "lastSeen": "2026-01-07T14:11:57.942Z"
+      },
+      {
+        "id": "19497261",
+        "totalCycles": 1,
+        "totalActiveTime": 75,
+        "totalActiveTimeFormatted": "1h 15m",
+        "carretera": "A-62",
+        "municipio": "Pajares de la Laguna",
+        "provincia": "Salamanca",
+        "lastSeen": "2026-01-08T11:56:58.520Z"
+      },
+      {
+        "id": "19499727",
+        "totalCycles": 1,
+        "totalActiveTime": 90,
+        "totalActiveTimeFormatted": "1h 30m",
+        "carretera": "CM-410a",
+        "municipio": "La Puebla de Almoradiel",
+        "provincia": "Toledo",
+        "lastSeen": "2026-01-08T13:41:58.462Z"
+      },
+      {
+        "id": "19480323",
+        "totalCycles": 1,
+        "totalActiveTime": 75,
+        "totalActiveTimeFormatted": "1h 15m",
+        "carretera": "GC-100",
+        "municipio": "Agüimes",
+        "provincia": "Las Palmas",
+        "lastSeen": "2026-01-07T19:11:58.094Z"
+      },
+      {
+        "id": "19471206",
+        "totalCycles": 1,
+        "totalActiveTime": 90,
+        "totalActiveTimeFormatted": "1h 30m",
+        "carretera": "A-4",
+        "municipio": "Valdemoro",
+        "provincia": "Madrid",
+        "lastSeen": "2026-01-07T13:26:58.002Z"
+      },
+      {
+        "id": "19462182",
+        "totalCycles": 1,
+        "totalActiveTime": 45,
+        "totalActiveTimeFormatted": "45m",
+        "carretera": "Ma-3400",
+        "municipio": "Santa Margalida",
+        "provincia": "Illes Balears",
+        "lastSeen": "2026-01-07T07:26:57.734Z"
+      },
+      {
+        "id": "19495783",
+        "totalCycles": 1,
+        "totalActiveTime": 30,
+        "totalActiveTimeFormatted": "30m",
+        "carretera": "VP-5801",
+        "municipio": "Zaratán",
+        "provincia": "Valladolid",
+        "lastSeen": "2026-01-08T10:26:58.402Z"
+      },
+      {
+        "id": "19481692",
+        "totalCycles": 1,
+        "totalActiveTime": 30,
+        "totalActiveTimeFormatted": "30m",
+        "carretera": "N-433",
+        "municipio": "Los Marines",
+        "provincia": "Huelva",
+        "lastSeen": "2026-01-07T19:26:58.070Z"
+      },
+      {
+        "id": "19485460",
+        "totalCycles": 1,
+        "totalActiveTime": 30,
+        "totalActiveTimeFormatted": "30m",
+        "carretera": "M-21",
+        "municipio": "Madrid",
+        "provincia": "Madrid",
+        "lastSeen": "2026-01-08T00:11:58.100Z"
+      },
+      {
+        "id": "19459797",
+        "totalCycles": 1,
+        "totalActiveTime": 30,
+        "totalActiveTimeFormatted": "30m",
+        "carretera": "A-7",
+        "municipio": "Marbella",
+        "provincia": "Málaga",
+        "lastSeen": "2026-01-06T23:41:57.595Z"
+      },
+      {
+        "id": "19459912",
+        "totalCycles": 1,
+        "totalActiveTime": 30,
+        "totalActiveTimeFormatted": "30m",
+        "carretera": "TF-5",
+        "municipio": "Santa Cruz de Tenerife",
+        "provincia": "Santa Cruz de Tenerife",
+        "lastSeen": "2026-01-06T23:56:57.610Z"
+      },
+      {
+        "id": "19504905",
+        "totalCycles": 1,
+        "totalActiveTime": 60,
+        "totalActiveTimeFormatted": "1h 0m",
+        "carretera": "N-344",
+        "municipio": "Yecla",
+        "provincia": "Murcia",
+        "lastSeen": "2026-01-08T16:11:58.524Z"
+      },
+      {
+        "id": "19465485",
+        "totalCycles": 1,
+        "totalActiveTime": 30,
+        "totalActiveTimeFormatted": "30m",
+        "carretera": "N-5a",
+        "municipio": "Talavera de la Reina",
+        "provincia": "Toledo",
+        "lastSeen": "2026-01-07T08:56:59.070Z"
+      },
+      {
+        "id": "19465913",
+        "totalCycles": 1,
+        "totalActiveTime": 60,
+        "totalActiveTimeFormatted": "1h 0m",
+        "carretera": "DP-2104",
+        "municipio": "Carral",
+        "provincia": "A Coruña",
+        "lastSeen": "2026-01-07T09:41:57.766Z"
+      },
+      {
+        "id": "19465015",
+        "totalCycles": 1,
+        "totalActiveTime": 30,
+        "totalActiveTimeFormatted": "30m",
+        "carretera": "A-316",
+        "municipio": "Jaén",
+        "provincia": "Jaén",
+        "lastSeen": "2026-01-07T08:41:57.777Z"
+      },
+      {
+        "id": "19459963",
+        "totalCycles": 1,
+        "totalActiveTime": 30,
+        "totalActiveTimeFormatted": "30m",
+        "carretera": "A-126",
+        "municipio": "Tauste",
+        "provincia": "Zaragoza",
+        "lastSeen": "2026-01-07T00:11:57.599Z"
+      }
+    ],
+    "longestActiveBeacons": [
+      {
+        "id": "19503048",
+        "totalActiveTime": 120,
+        "totalActiveTimeFormatted": "2h 0m",
+        "totalCycles": 1,
+        "avgActiveTime": 120,
+        "carretera": "BV-2244",
+        "municipio": "Sant Sadurní d'Anoia",
+        "provincia": "Barcelona",
+        "lastSeen": "2026-01-08T16:11:58.524Z"
+      },
+      {
+        "id": "19503133",
+        "totalActiveTime": 120,
+        "totalActiveTimeFormatted": "2h 0m",
+        "totalCycles": 1,
+        "avgActiveTime": 120,
+        "carretera": "AC-566",
+        "municipio": "Valdoviño",
+        "provincia": "A Coruña",
+        "lastSeen": "2026-01-08T16:11:58.524Z"
+      },
+      {
+        "id": "19503026",
+        "totalActiveTime": 120,
+        "totalActiveTimeFormatted": "2h 0m",
+        "totalCycles": 1,
+        "avgActiveTime": 120,
+        "carretera": "A-326",
+        "municipio": "Pozo Alcón",
+        "provincia": "Jaén",
+        "lastSeen": "2026-01-08T16:11:58.524Z"
+      },
+      {
+        "id": "19503091",
+        "totalActiveTime": 120,
+        "totalActiveTimeFormatted": "2h 0m",
+        "totalCycles": 1,
+        "avgActiveTime": 120,
+        "carretera": "A-379",
+        "municipio": "Casariche",
+        "provincia": "Sevilla",
+        "lastSeen": "2026-01-08T16:11:58.524Z"
+      },
+      {
+        "id": "19502985",
+        "totalActiveTime": 120,
+        "totalActiveTimeFormatted": "2h 0m",
+        "totalCycles": 1,
+        "avgActiveTime": 120,
+        "carretera": "A-2",
+        "municipio": "Calatayud",
+        "provincia": "Zaragoza",
+        "lastSeen": "2026-01-08T16:11:58.524Z"
+      },
+      {
+        "id": "19503063",
+        "totalActiveTime": 120,
+        "totalActiveTimeFormatted": "2h 0m",
+        "totalCycles": 1,
+        "avgActiveTime": 120,
+        "carretera": "A-1",
+        "municipio": "Lozoyuela-Navas-Sieteiglesias",
+        "provincia": "Madrid",
+        "lastSeen": "2026-01-08T16:11:58.524Z"
+      },
+      {
+        "id": "19503177",
+        "totalActiveTime": 120,
+        "totalActiveTimeFormatted": "2h 0m",
+        "totalCycles": 1,
+        "avgActiveTime": 120,
+        "carretera": "AP-7",
+        "municipio": "Catral",
+        "provincia": "Alacant/Alicante",
+        "lastSeen": "2026-01-08T16:11:58.524Z"
+      },
+      {
+        "id": "19503001",
+        "totalActiveTime": 120,
+        "totalActiveTimeFormatted": "2h 0m",
+        "totalCycles": 1,
+        "avgActiveTime": 120,
+        "carretera": "GI-614",
+        "municipio": "Roses",
+        "provincia": "Girona",
+        "lastSeen": "2026-01-08T16:11:58.524Z"
+      },
+      {
+        "id": "19485084",
+        "totalActiveTime": 105,
+        "totalActiveTimeFormatted": "1h 45m",
+        "totalCycles": 1,
+        "avgActiveTime": 105,
+        "carretera": "PA-30",
+        "municipio": "Berrioplano/Berriobeiti",
+        "provincia": "Navarra",
+        "lastSeen": "2026-01-08T00:11:58.100Z"
+      },
+      {
+        "id": "19459928",
+        "totalActiveTime": 105,
+        "totalActiveTimeFormatted": "1h 45m",
+        "totalCycles": 1,
+        "avgActiveTime": 105,
+        "carretera": "CV-735",
+        "municipio": "Dénia",
+        "provincia": "Alacant/Alicante",
+        "lastSeen": "2026-01-07T01:11:57.641Z"
+      },
+      {
+        "id": "19503282",
+        "totalActiveTime": 105,
+        "totalActiveTimeFormatted": "1h 45m",
+        "totalCycles": 1,
+        "avgActiveTime": 105,
+        "carretera": "BP-2427",
+        "municipio": "Subirats",
+        "provincia": "Barcelona",
+        "lastSeen": "2026-01-08T16:11:58.524Z"
+      },
+      {
+        "id": "19473682",
+        "totalActiveTime": 105,
+        "totalActiveTimeFormatted": "1h 45m",
+        "totalCycles": 1,
+        "avgActiveTime": 105,
+        "carretera": "A-48",
+        "municipio": "Chiclana de la Frontera",
+        "provincia": "Cádiz",
+        "lastSeen": "2026-01-07T15:11:58.157Z"
+      },
+      {
+        "id": "19453392",
+        "totalActiveTime": 105,
+        "totalActiveTimeFormatted": "1h 45m",
+        "totalCycles": 1,
+        "avgActiveTime": 105,
+        "carretera": "M-404",
+        "municipio": "Torrejón de Velasco",
+        "provincia": "Madrid",
+        "lastSeen": "2026-01-06T17:41:57.537Z"
+      },
+      {
+        "id": "19453917",
+        "totalActiveTime": 105,
+        "totalActiveTimeFormatted": "1h 45m",
+        "totalCycles": 1,
+        "avgActiveTime": 105,
+        "carretera": "LV-3342",
+        "municipio": "Anglesola",
+        "provincia": "Lleida",
+        "lastSeen": "2026-01-06T18:11:57.521Z"
+      },
+      {
+        "id": "19455313",
+        "totalActiveTime": 105,
+        "totalActiveTimeFormatted": "1h 45m",
+        "totalCycles": 1,
+        "avgActiveTime": 105,
+        "carretera": "A-23",
+        "municipio": "Zaragoza",
+        "provincia": "Zaragoza",
+        "lastSeen": "2026-01-06T19:11:57.491Z"
+      },
+      {
+        "id": "19472984",
+        "totalActiveTime": 105,
+        "totalActiveTimeFormatted": "1h 45m",
+        "totalCycles": 1,
+        "avgActiveTime": 105,
+        "carretera": "T-3319-1",
+        "municipio": "Torre-Pacheco",
+        "provincia": "Murcia",
+        "lastSeen": "2026-01-07T14:41:57.929Z"
+      },
+      {
+        "id": "19479147",
+        "totalActiveTime": 105,
+        "totalActiveTimeFormatted": "1h 45m",
+        "totalCycles": 1,
+        "avgActiveTime": 105,
+        "carretera": "AL-8104",
+        "municipio": "Cuevas del Almanzora",
+        "provincia": "Almería",
+        "lastSeen": "2026-01-07T18:41:58.077Z"
+      },
+      {
+        "id": "19476096",
+        "totalActiveTime": 105,
+        "totalActiveTimeFormatted": "1h 45m",
+        "totalCycles": 1,
+        "avgActiveTime": 105,
+        "carretera": "AC-523",
+        "municipio": "Culleredo",
+        "provincia": "A Coruña",
+        "lastSeen": "2026-01-07T16:41:58.060Z"
+      },
+      {
+        "id": "19463651",
+        "totalActiveTime": 105,
+        "totalActiveTimeFormatted": "1h 45m",
+        "totalCycles": 1,
+        "avgActiveTime": 105,
+        "carretera": "TF-21",
+        "municipio": "La Orotava",
+        "provincia": "Santa Cruz de Tenerife",
+        "lastSeen": "2026-01-07T09:11:57.913Z"
+      },
+      {
+        "id": "19503260",
+        "totalActiveTime": 105,
+        "totalActiveTimeFormatted": "1h 45m",
+        "totalCycles": 1,
+        "avgActiveTime": 105,
+        "carretera": "A-8",
+        "municipio": "Valdés",
+        "provincia": "Asturias",
+        "lastSeen": "2026-01-08T16:11:58.524Z"
+      }
+    ],
+    "longestActivations": [
+      {
+        "id": "19503091",
+        "activeTime": 120,
+        "activeTimeFormatted": "2h 0m",
+        "carretera": "A-379",
+        "municipio": "Casariche",
+        "provincia": "Sevilla",
+        "firstSeen": "2026-01-08T14:27:03.167Z",
+        "lastSeen": "2026-01-08T16:11:58.524Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19503177",
+        "activeTime": 120,
+        "activeTimeFormatted": "2h 0m",
+        "carretera": "AP-7",
+        "municipio": "Catral",
+        "provincia": "Alacant/Alicante",
+        "firstSeen": "2026-01-08T14:27:03.167Z",
+        "lastSeen": "2026-01-08T16:11:58.524Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19503133",
+        "activeTime": 120,
+        "activeTimeFormatted": "2h 0m",
+        "carretera": "AC-566",
+        "municipio": "Valdoviño",
+        "provincia": "A Coruña",
+        "firstSeen": "2026-01-08T14:27:03.167Z",
+        "lastSeen": "2026-01-08T16:11:58.524Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19503063",
+        "activeTime": 120,
+        "activeTimeFormatted": "2h 0m",
+        "carretera": "A-1",
+        "municipio": "Lozoyuela-Navas-Sieteiglesias",
+        "provincia": "Madrid",
+        "firstSeen": "2026-01-08T14:27:03.167Z",
+        "lastSeen": "2026-01-08T16:11:58.524Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19503048",
+        "activeTime": 120,
+        "activeTimeFormatted": "2h 0m",
+        "carretera": "BV-2244",
+        "municipio": "Sant Sadurní d'Anoia",
+        "provincia": "Barcelona",
+        "firstSeen": "2026-01-08T14:27:03.167Z",
+        "lastSeen": "2026-01-08T16:11:58.524Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19503001",
+        "activeTime": 120,
+        "activeTimeFormatted": "2h 0m",
+        "carretera": "GI-614",
+        "municipio": "Roses",
+        "provincia": "Girona",
+        "firstSeen": "2026-01-08T14:27:03.167Z",
+        "lastSeen": "2026-01-08T16:11:58.524Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19503026",
+        "activeTime": 120,
+        "activeTimeFormatted": "2h 0m",
+        "carretera": "A-326",
+        "municipio": "Pozo Alcón",
+        "provincia": "Jaén",
+        "firstSeen": "2026-01-08T14:27:03.167Z",
+        "lastSeen": "2026-01-08T16:11:58.524Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19502985",
+        "activeTime": 120,
+        "activeTimeFormatted": "2h 0m",
+        "carretera": "A-2",
+        "municipio": "Calatayud",
+        "provincia": "Zaragoza",
+        "firstSeen": "2026-01-08T14:27:03.167Z",
+        "lastSeen": "2026-01-08T16:11:58.524Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19455360",
+        "activeTime": 105,
+        "activeTimeFormatted": "1h 45m",
+        "carretera": "DP-1802",
+        "municipio": "As Pontes de García Rodríguez",
+        "provincia": "A Coruña",
+        "firstSeen": "2026-01-06T17:41:57.537Z",
+        "lastSeen": "2026-01-06T19:11:57.491Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19455341",
+        "activeTime": 105,
+        "activeTimeFormatted": "1h 45m",
+        "carretera": "A-4",
+        "municipio": "La Carolina",
+        "provincia": "Jaén",
+        "firstSeen": "2026-01-06T17:41:57.537Z",
+        "lastSeen": "2026-01-06T19:11:57.491Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19455294",
+        "activeTime": 105,
+        "activeTimeFormatted": "1h 45m",
+        "carretera": "A-231",
+        "municipio": "Sasamón",
+        "provincia": "Burgos",
+        "firstSeen": "2026-01-06T17:41:57.537Z",
+        "lastSeen": "2026-01-06T19:11:57.491Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19455875",
+        "activeTime": 105,
+        "activeTimeFormatted": "1h 45m",
+        "carretera": "V-21",
+        "municipio": "València",
+        "provincia": "València/Valencia",
+        "firstSeen": "2026-01-06T18:11:57.521Z",
+        "lastSeen": "2026-01-06T19:41:57.496Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19455913",
+        "activeTime": 105,
+        "activeTimeFormatted": "1h 45m",
+        "carretera": "OU-533",
+        "municipio": "O Bolo",
+        "provincia": "Ourense",
+        "firstSeen": "2026-01-06T18:11:57.521Z",
+        "lastSeen": "2026-01-06T19:41:57.496Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19455313",
+        "activeTime": 105,
+        "activeTimeFormatted": "1h 45m",
+        "carretera": "A-23",
+        "municipio": "Zaragoza",
+        "provincia": "Zaragoza",
+        "firstSeen": "2026-01-06T17:41:57.537Z",
+        "lastSeen": "2026-01-06T19:11:57.491Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19456498",
+        "activeTime": 105,
+        "activeTimeFormatted": "1h 45m",
+        "carretera": "N-232",
+        "municipio": "Vinaròs",
+        "provincia": "Castelló/Castellón",
+        "firstSeen": "2026-01-06T18:41:57.508Z",
+        "lastSeen": "2026-01-06T20:11:57.498Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19454701",
+        "activeTime": 105,
+        "activeTimeFormatted": "1h 45m",
+        "carretera": "TF-1",
+        "municipio": "Güímar",
+        "provincia": "Santa Cruz de Tenerife",
+        "firstSeen": "2026-01-06T17:11:57.480Z",
+        "lastSeen": "2026-01-06T18:41:57.508Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19456504",
+        "activeTime": 105,
+        "activeTimeFormatted": "1h 45m",
+        "carretera": "A-66",
+        "municipio": "Santovenia de la Valdoncina",
+        "provincia": "León",
+        "firstSeen": "2026-01-06T18:41:57.508Z",
+        "lastSeen": "2026-01-06T20:11:57.498Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19454731",
+        "activeTime": 105,
+        "activeTimeFormatted": "1h 45m",
+        "carretera": "CA-9115",
+        "municipio": "Alcalá del Valle",
+        "provincia": "Cádiz",
+        "firstSeen": "2026-01-06T17:11:57.480Z",
+        "lastSeen": "2026-01-06T18:41:57.508Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19454682",
+        "activeTime": 105,
+        "activeTimeFormatted": "1h 45m",
+        "carretera": "N-6",
+        "municipio": "Labajos",
+        "provincia": "Segovia",
+        "firstSeen": "2026-01-06T17:11:57.480Z",
+        "lastSeen": "2026-01-06T18:41:57.508Z",
+        "status": "inactive"
+      },
+      {
+        "id": "19453931",
+        "activeTime": 105,
+        "activeTimeFormatted": "1h 45m",
+        "carretera": "AP-7",
+        "municipio": "Vila-seca",
+        "provincia": "Tarragona",
+        "firstSeen": "2026-01-06T16:41:57.618Z",
+        "lastSeen": "2026-01-06T18:11:57.521Z",
+        "status": "inactive"
+      }
+    ]
+  }
+}

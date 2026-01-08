@@ -1,0 +1,3 @@
+# Tratar reportes HTML como binarios para mejor compresión
+*.html binary
+*.json binary
