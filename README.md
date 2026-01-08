@@ -29,21 +29,7 @@ Documentación legible para GitHub/GitLab.
 - Compatible con wikis y documentación
 - Incluye todos los análisis y rankings
 
-## 🔄 Actualización
-
-Los reportes se generan automáticamente cuando ejecutas:
-
-```bash
-npm run report
-```
-
-Para generar y hacer commit automáticamente:
-
-```bash
-npm run report:full
-```
-
-## 📈 Contenido de los Reportes
+## � Contenido de los Reportes
 
 - **Resumen Ejecutivo**: Métricas clave y período de datos
 - **Análisis Histórico**: Distribución de tiempo activo y ciclos
@@ -55,16 +41,7 @@ npm run report:full
 
 ## 🌐 Ver Reportes Online
 
-Para publicar en GitHub Pages:
-
-1. Sube este repositorio a GitHub
-2. Ve a Settings → Pages
-3. Selecciona la rama `main` como source
-4. Los reportes estarán disponibles en: `https://tuusuario.github.io/balizav16-reports/`
-
-## 🌐 Repositorio Principal
-
-Este es un sub-repositorio. El código fuente principal está en: **balizav16-data**
+Reportes disponibles en GitHub Pages: **https://melenas1414.github.io/baliza-v16-reports/**
 
 ---
 
