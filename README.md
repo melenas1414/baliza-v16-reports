@@ -2,6 +2,12 @@
 
 Este repositorio contiene los reportes generados automáticamente por el sistema de análisis de Balizas V16.
 
+## 🌐 Ver Último Reporte
+
+**► [Ver Reporte Interactivo (HTML)](https://melenas1414.github.io/baliza-v16-reports/report-2026-01-09T11-31-19.html)**
+
+Todos los reportes históricos disponibles en: https://melenas1414.github.io/baliza-v16-reports/
+
 ## 📁 Estructura de Archivos
 
 Cada reporte se genera con un timestamp único en formato `report-YYYY-MM-DDTHH-MM-SS`:
@@ -36,13 +42,11 @@ Documentación legible para GitHub/GitLab.
 - **Rankings**: Top balizas más activas y con mayor tiempo activo
 - **Análisis por Ubicación**: Estadísticas por comunidad, provincia y carretera
 - **Análisis Temporal**: Patrones por hora del día (media diaria) y día de la semana
+- **Distribución de Tiempo Activo**: Incluye categoría de activaciones instantáneas (0 min)
 - **Estado Actual**: Distribución de balizas activas/perdidas
 - **Glosario**: Definiciones de términos técnicos
 
-## 🌐 Ver Reportes Online
-
-Reportes disponibles en GitHub Pages: **https://melenas1414.github.io/baliza-v16-reports/**
-
 ---
 
-*Generado automáticamente por Balizas V16 Data Fetcher*
+*Generado automáticamente por Balizas V16 Data Fetcher*  
+*Repositorio principal:* https://github.com/melenas1414/balizav16-data
